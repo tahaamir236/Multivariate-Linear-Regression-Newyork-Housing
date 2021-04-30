@@ -1,1 +1,1 @@
-#Multivariate-Linear-Regression-Newyork-Housing
+Predict Housing Prices in New York using Multivariate Linear Regression in R
